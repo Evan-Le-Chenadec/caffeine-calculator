@@ -1,3 +1,3 @@
 TODO : 
 - fix the HTML export
-- add Plotly
+- add interactivity : https://stackoverflow.com/questions/22052532/matplotlib-python-clickable-points
